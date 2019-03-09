@@ -1,2 +1,2 @@
 # Algorithms-and-Data-Structures
-All the alrorithms and datastructrures taught in the course "Algorithms and Data Structures (Microsoft)"
+This will contain the alrorithms and datastructrures taught in the course "Algorithms and Data Structures" by microsoft
